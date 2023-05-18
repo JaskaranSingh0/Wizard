@@ -1,2 +1,2 @@
 # Wizard
-AI chatbot with and avatar integrated with ChatGPT-4 
+AI chatbot with a speaking Avatar integrated with ChatGPT-4.
